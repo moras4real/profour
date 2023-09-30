@@ -1,0 +1,21 @@
+#dropchange{
+    color: white;
+    font-size: 13px;    
+}
+
+#dropchange:hover{
+    color: green;
+}
+
+#list{
+    color: black;
+}
+
+#list:hover{
+    color: red;
+    background-color: black;
+}
+
+#navtwo{
+    background-color: red;
+}
