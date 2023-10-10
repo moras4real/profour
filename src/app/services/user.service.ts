@@ -9,7 +9,7 @@ export class UserService {
   constructor(public http : HttpClient ) { }
 
   public getFrontend(){
-    return this.http.get("https://prophp.infinityfreeapp.com");
+    return this.http.get("https://prophp.infinityfreeapp.com/dashboard.php");
    }
 
   
